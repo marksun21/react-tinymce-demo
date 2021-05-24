@@ -7,3 +7,5 @@ Steps to run the app
 1. `serve -s build`
 
 The app should now be available on localhost:5000.
+
+![image](https://user-images.githubusercontent.com/78812200/119367851-628a5200-bc80-11eb-9ad0-72fa43b77449.png)
